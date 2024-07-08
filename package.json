@@ -1,5 +1,5 @@
 {
-  "name": "emphasis-roll",
+  "name": "dnd5e-average-hp-or-higher",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "updateExternalManifestForGithub": "gulp updateExternalManifestForGithub"
   },
   "author": "",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
     "@types/gulp": "^4.0.9",
